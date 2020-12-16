@@ -20,11 +20,11 @@
     },
     "require": {
         "qandidate/toggle": "^0.1|^1.0",
-        "symfony/framework-bundle": "^2.7.0",
+        "symfony/framework-bundle": "^3.0.9",
         "doctrine/common": "~2.2"
     },
     "require-dev": {
-        "symfony/framework-bundle": "^2.7.0",
+        "symfony/framework-bundle": "^3.0.9",
         "symfony/browser-kit": "^2.7.0",
         "twig/twig": "~1.16,>=1.16.2",
         "symfony/twig-bundle": "^2.7.0"
